@@ -1,0 +1,25 @@
+[2024/03/19 09:50:36] - WRN [Supervisors.Vehicle] >> now in 'CALIBRATION' mode
+[2024/03/19 09:50:36] - MSG [Plan.Engine] >> Goto1: executing maneuver
+[2024/03/19 09:50:36] - WRN [Supervisors.Vehicle] >> now in 'MANEUVERING' mode
+[2024/03/19 09:50:36] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> request activation
+[2024/03/19 09:50:36] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> calling on request activation
+[2024/03/19 09:50:36] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> on request activation
+[2024/03/19 09:50:36] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> activate
+[2024/03/19 09:50:36] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> calling on activation
+[2024/03/19 09:50:36] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> enabling
+[2024/03/19 09:50:36] - DBG [Control.ASV.HeadingAndSpeed] >> request activation
+[2024/03/19 09:50:36] - MSG [Control.Path.COLAV.ColavSbmpcNegotiation] >> path (lat/lon): 63.32894 10.07985 to 63.32922 10.07984
+[2024/03/19 09:50:36] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> state (lat/lon) 63.32894 10.07985 | path (x,y,z) -0.00, -0.00, -0.00 to 30.31, -0.13, 0.00 | length(m) / bearing (dg): 30.31 / -0.25 | state (x,y,z) 0.00,-0.00,0.00 | track pos (x,y,z): 0.00, 0.00, 0.00 | course error (dg): -89.62
+[2024/03/19 09:50:36] - DBG [Control.ASV.HeadingAndSpeed] >> calling on request activation
+[2024/03/19 09:50:36] - DBG [Control.ASV.HeadingAndSpeed] >> on request activation
+[2024/03/19 09:50:36] - DBG [Control.ASV.HeadingAndSpeed] >> activate
+[2024/03/19 09:50:36] - DBG [Control.ASV.HeadingAndSpeed] >> calling on activation
+[2024/03/19 09:50:36] - DBG [Control.ASV.HeadingAndSpeed] >> enabling
+[2024/03/19 09:50:42] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> near endpoint
+[2024/03/19 09:50:42] - MSG [Plan.Engine] >> Goto2: executing maneuver
+[2024/03/19 09:50:43] - MSG [Control.Path.COLAV.ColavSbmpcNegotiation] >> path (lat/lon): 63.32919 10.07987 to 63.33254 10.07985
+[2024/03/19 09:50:43] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> state (lat/lon) 63.32894 10.07985 | path (x,y,z) 27.27, 1.36, 0.07 to 401.05, 0.13, 0.00 | length(m) / bearing (dg): 373.79 / -0.19 | state (x,y,z) 27.27,1.36,-0.07 | track pos (x,y,z): 0.00, 0.00, 0.00 | course error (dg): -17.29
+[2024/03/19 09:51:57] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> near endpoint
+[2024/03/19 09:51:58] - MSG [Plan.Engine] >> plan completed
+[2024/03/19 09:51:58] - MSG [Transports.Logging] >> log stopped '20240319/095219_IMAZU-03-V1'
+[2024/03/19 09:51:58] - MSG [Transports.Logging] >> log started '20240319/095909'

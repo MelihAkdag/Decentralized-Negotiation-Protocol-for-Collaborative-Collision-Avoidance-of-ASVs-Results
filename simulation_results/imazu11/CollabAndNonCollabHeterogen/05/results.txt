@@ -1,0 +1,104 @@
+
+ASV-1 total path length: 281.90747661942055
+
+ASV-2 total path length: 289.93168363925145
+
+ASV-3 total path length: 275.5558164585239
+
+Minimum distance between asv_1-asv_2: 30.51946074747155
+
+Minimum distance between asv_1-asv_3: 30.51946074747155
+
+Minimum distance between asv_2-asv_3: 30.51946074747155
+
+
+Negotiation Communication Statistics:
+
+               time   entity         mmsi     msg_in    msg_out   iter_time
+count  9.400000e+01      94.0   94.000000  94.000000  94.000000   92.000000
+mean   1.710858e+09       7.0  111.478723   9.861702   4.542553    5.553269
+std    8.483212e+01       0.0    0.502226   4.941814   1.893196   11.626967
+min    1.710858e+09       7.0  111.000000   3.000000   3.000000    3.048406
+25%    1.710858e+09       7.0  111.000000   6.000000   3.000000    3.100057
+50%    1.710858e+09       7.0  111.000000   9.000000   4.000000    4.099856
+75%    1.710858e+09       7.0  112.000000  12.000000   5.000000    5.149676
+max    1.710858e+09       7.0  112.000000  30.000000  12.000000  115.050203
+
+ system            caravela  caravela-2
+ msg_in   count   49.000000   45.000000
+          mean    11.571429    8.000000
+          std      6.010408    2.325745
+          min      3.000000    5.000000
+          25%      9.000000    6.000000
+          50%     12.000000    8.000000
+          75%     15.000000   10.000000
+          max     30.000000   13.000000
+ msg_out  count   49.000000   45.000000
+          mean     4.897959    4.155556
+          std      2.247637    1.330679
+          min      3.000000    3.000000
+          25%      3.000000    3.000000
+          50%      4.000000    4.000000
+          75%      6.000000    5.000000
+          max     12.000000    7.000000
+iter_time count   48.000000   44.000000
+          mean     6.854159    4.134116
+          std     16.030013    1.130240
+          min      3.048406    3.049322
+          25%      3.106286    3.099245
+          50%      4.105376    4.050766
+          75%      5.212336    5.100624
+          max    115.050203    6.250366
+
+
+ASV-1 COG offset intentions statistics:
+count    306.000000
+mean      10.767974
+std        9.554765
+min        0.000000
+25%        0.000000
+50%       15.000000
+75%       20.000000
+max       30.000000
+
+ASV-2 COG offset intentions statistics:
+count    487.000000
+mean      10.236140
+std       12.672501
+min      -30.000000
+25%        0.000000
+50%       10.000000
+75%       20.000000
+max       30.000000
+
+ASV-3 COG offset intentions statistics:
+count       0
+unique      0
+top       NaN
+freq      NaN
+
+ASV_1 SOG offset intentions statistics:
+count    306.0
+mean       1.0
+std        0.0
+min        1.0
+25%        1.0
+50%        1.0
+75%        1.0
+max        1.0
+
+ASV_2 SOG offset intentions statistics:
+count    487.0
+mean       1.0
+std        0.0
+min        1.0
+25%        1.0
+50%        1.0
+75%        1.0
+max        1.0
+
+ASV_3 SOG offset intentions statistics:
+count       0
+unique      0
+top       NaN
+freq      NaN

@@ -1,0 +1,28 @@
+[2024/03/07 12:43:29] - MSG [Transports.TCP.Server/SlaveCPU] >> starting
+[2024/03/07 12:43:29] - MSG [Transports.TCP.Server/BackSeat] >> listening on 0.0.0.0:6006
+[2024/03/07 12:43:29] - MSG [Transports.TCPOnDemand] >> starting
+[2024/03/07 12:43:29] - MSG [Transports.TCP.Server/SlaveCPU] >> listening on 0.0.0.0:9999
+[2024/03/07 12:43:29] - MSG [Transports.UAN] >> starting
+[2024/03/07 12:43:29] - MSG [Transports.UDP] >> starting
+[2024/03/07 12:43:29] - MSG [Transports.UDP/AISsim] >> starting
+[2024/03/07 12:43:29] - MSG [Transports.UDP] >> listening on 0.0.0.0:6002
+[2024/03/07 12:43:29] - MSG [Transports.UDP/Negotiation] >> starting
+[2024/03/07 12:43:29] - MSG [Transports.UDP/AISsim] >> listening on 0.0.0.0:6019
+[2024/03/07 12:43:29] - MSG [Monitors.Entities] >> Daemon : Boot -> Normal | active
+[2024/03/07 12:43:29] - MSG [Transports.UDP/Negotiation] >> listening on 0.0.0.0:6016
+[2024/03/07 12:43:29] - MSG [Monitors.Entities] >> GPS : Boot -> Normal | active
+[2024/03/07 12:43:29] - MSG [Monitors.Entities] >> Navigation : Boot -> Normal | active
+[2024/03/07 12:43:29] - MSG [Monitors.Entities] >> Path Control : Boot -> Normal | idle
+[2024/03/07 12:43:29] - MSG [Monitors.Entities] >> Operational Limits : Boot -> Normal | active
+[2024/03/07 12:43:30] - MSG [Supervisors.Vehicle] >> entity errors cleared
+[2024/03/07 12:43:30] - WRN [Supervisors.Vehicle] >> now in 'SERVICE' mode
+[2024/03/07 12:43:30] - MSG [Plan.Engine] >> vehicle ready
+[2024/03/07 12:43:33] - MSG [Transports.Discovery] >> new node within range 'ccu-parallels-55-14' / 22286 / 10.211.55.14
+[2024/03/07 12:43:33] - MSG [Transports.UDP] >> activating transmission to node 'ccu-parallels-55-14'
+[2024/03/07 12:43:37] - MSG [Plan.DB] >> set plan (IMAZU-03-V1) -- OK (updated)
+[2024/03/07 12:43:38] - MSG [Plan.Engine] >> request -- Start Plan (IMAZU-03-V1)
+[2024/03/07 12:43:38] - MSG [Plan.Engine] >> plan initializing: IMAZU-03-V1
+[2024/03/07 12:43:38] - WRN [Plan.Engine] >> schedule: entity label Multibeam not found
+[2024/03/07 12:43:38] - WRN [Plan.Engine] >> schedule: entity label Multibeam not found
+[2024/03/07 12:43:38] - MSG [Transports.Logging] >> log stopped '20240307/124329'
+[2024/03/07 12:43:38] - MSG [Transports.Logging] >> log started '20240307/124414_IMAZU-03-V1'

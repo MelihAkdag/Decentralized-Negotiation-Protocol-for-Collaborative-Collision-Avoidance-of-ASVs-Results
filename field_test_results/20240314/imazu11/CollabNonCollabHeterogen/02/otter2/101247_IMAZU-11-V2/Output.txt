@@ -1,0 +1,319 @@
+[2024/03/14 10:12:47] - WRN [Supervisors.Vehicle] >> now in 'CALIBRATION' mode
+[2024/03/14 10:12:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 1.320000 SOG_int: 0.875000 State: 0
+[2024/03/14 10:12:49] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 22.610310 SOG_int: 1.000000 State: 1
+[2024/03/14 10:12:50] - MSG [Plan.Engine] >> Goto1: executing maneuver
+[2024/03/14 10:12:51] - WRN [Supervisors.Vehicle] >> now in 'MANEUVERING' mode
+[2024/03/14 10:12:51] - MSG [Control.ASV.HeadingAndSpeedForce] >> msg->scope_ref: 85
+[2024/03/14 10:12:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> request activation
+[2024/03/14 10:12:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> calling on request activation
+[2024/03/14 10:12:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> on request activation
+[2024/03/14 10:12:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> activate
+[2024/03/14 10:12:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> calling on activation
+[2024/03/14 10:12:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> enabling
+[2024/03/14 10:12:51] - MSG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Start Z units not defined. Switching to Depth units
+[2024/03/14 10:12:51] - MSG [Control.ASV.HeadingAndSpeedForce] >> msg->scope_ref: 86
+[2024/03/14 10:12:51] - MSG [Control.Path.COLAV.ColavSbmpcNegotiation] >> path (lat/lon): 63.33050 10.07658 to 63.33056 10.07685
+[2024/03/14 10:12:51] - MSG [Control.ASV.HeadingAndSpeedForce] >> msg->scope_ref: 86
+[2024/03/14 10:12:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> state (lat/lon) 63.33050 10.07658 | path (x,y,z) -0.00, 0.00, 0.00 to 7.15, 13.71, 0.00 | length(m) / bearing (dg): 15.46 / 62.46 | state (x,y,z) 0.00,0.00,0.00 | track pos (x,y,z): 0.00, -0.00, 0.00 | course error (dg): 168.75
+[2024/03/14 10:13:05] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> near endpoint
+[2024/03/14 10:13:05] - MSG [Plan.Engine] >> Goto2: executing maneuver
+[2024/03/14 10:13:06] - MSG [Control.Path.COLAV.ColavSbmpcNegotiation] >> path (lat/lon): 63.33056 10.07685 to 63.33056 10.08284
+[2024/03/14 10:13:06] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> state (lat/lon) 63.33052 10.07680 | path (x,y,z) 4.46, 2.67, 0.00 to 3.94, 302.89, 0.00 | length(m) / bearing (dg): 300.22 / 90.10 | state (x,y,z) 0.00,0.00,0.00 | track pos (x,y,z): -2.67, 4.46, 0.00 | course error (dg): -15.24
+[2024/03/14 10:13:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 22.610310 SOG_int: 1.000000 State: 1
+[2024/03/14 10:13:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 1.944444
+[2024/03/14 10:13:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 8.055555
+[2024/03/14 10:13:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:13:49] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 22.610310 SOG_int: 1.000000 State: 1
+[2024/03/14 10:13:49] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 1.944444
+[2024/03/14 10:13:49] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 8.055555
+[2024/03/14 10:13:49] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:13:50] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 22.610310 SOG_int: 1.000000 State: 1
+[2024/03/14 10:13:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 1.944444
+[2024/03/14 10:13:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 8.055555
+[2024/03/14 10:13:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:13:52] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 22.610310 SOG_int: 1.000000 State: 1
+[2024/03/14 10:13:52] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 1.944444
+[2024/03/14 10:13:52] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 8.055555
+[2024/03/14 10:13:52] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:13:53] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 22.610310 SOG_int: 1.000000 State: 1
+[2024/03/14 10:13:53] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 10 Msg_out: 6
+
+[2024/03/14 10:13:53] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 15.000000 SOG change: 1.000000
+
+[2024/03/14 10:13:54] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -5.980011 SOG_int: 1.002778 State: 0
+[2024/03/14 10:13:55] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 7.104265 SOG_int: 1.000000 State: 1
+[2024/03/14 10:13:55] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 1.944444
+[2024/03/14 10:13:55] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 8.055555
+[2024/03/14 10:13:55] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:13:56] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 7.104265 SOG_int: 1.000000 State: 1
+[2024/03/14 10:13:57] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 3 Msg_out: 3
+
+[2024/03/14 10:13:57] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 15.000000 SOG change: 1.000000
+
+[2024/03/14 10:13:57] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -1.390015 SOG_int: 1.022222 State: 0
+[2024/03/14 10:13:59] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.085965 SOG_int: 1.000000 State: 1
+[2024/03/14 10:13:59] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 5.572679
+[2024/03/14 10:13:59] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 7.600257
+[2024/03/14 10:13:59] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:14:00] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.085965 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:00] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 6.514536
+[2024/03/14 10:14:00] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 6.547158
+[2024/03/14 10:14:00] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 6.890136
+[2024/03/14 10:14:01] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.085965 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:01] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 6.514536
+[2024/03/14 10:14:01] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 6.547158
+[2024/03/14 10:14:01] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 6.890136
+[2024/03/14 10:14:02] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 6.514536
+[2024/03/14 10:14:02] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 6.547158
+[2024/03/14 10:14:02] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 6.890136
+[2024/03/14 10:14:02] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.085965 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:03] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.085965 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:03] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 7.438342
+[2024/03/14 10:14:03] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 5.389234
+[2024/03/14 10:14:03] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 7.854594
+[2024/03/14 10:14:04] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.085965 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:04] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 7 Msg_out: 7
+
+[2024/03/14 10:14:04] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 15.000000 SOG change: 1.000000
+
+[2024/03/14 10:14:05] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 5.960000 SOG_int: 0.969445 State: 0
+[2024/03/14 10:14:07] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 6.982700 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:07] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 8.055555
+[2024/03/14 10:14:07] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 3.420191
+[2024/03/14 10:14:07] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:14:08] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 6.987885 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:08] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 8.055555
+[2024/03/14 10:14:08] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 2.529826
+[2024/03/14 10:14:08] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:14:09] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 6.998003 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:09] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 8.055555 CR: 8.055555
+[2024/03/14 10:14:09] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 8.055555 CR: 2.456946
+[2024/03/14 10:14:09] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:14:10] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 6.998003 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:10] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 5 Msg_out: 5
+
+[2024/03/14 10:14:10] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 30.000000 SOG change: 1.000000
+
+[2024/03/14 10:14:11] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -0.179993 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:12] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.059420 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:13] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 7.808393 CR: 8.055555
+[2024/03/14 10:14:13] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 7.808393 CR: 1.944444
+[2024/03/14 10:14:13] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:14:13] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.076468 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:14] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 7.729076 CR: 8.055555
+[2024/03/14 10:14:14] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 7.729076 CR: 1.944444
+[2024/03/14 10:14:14] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.055555
+[2024/03/14 10:14:15] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.099579 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:16] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.113673 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:16] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 5 Msg_out: 6
+
+[2024/03/14 10:14:16] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 30.000000 SOG change: 1.000000
+
+[2024/03/14 10:14:17] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.113673 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:18] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 0.710000 SOG_int: 0.986111 State: 0
+[2024/03/14 10:14:19] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 7.421370 CR: 8.055555
+[2024/03/14 10:14:19] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 7.421370 CR: 1.944444
+[2024/03/14 10:14:19] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 8.040873
+[2024/03/14 10:14:19] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.146415 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:20] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 6.858067 CR: 5.798986
+[2024/03/14 10:14:20] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 6.858067 CR: 1.944444
+[2024/03/14 10:14:20] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 5.271019
+[2024/03/14 10:14:20] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.162534 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:21] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.179971 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:22] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.197730 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:23] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 6 Msg_out: 8
+
+[2024/03/14 10:14:23] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 30.000000 SOG change: 1.000000
+
+[2024/03/14 10:14:24] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.197730 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:25] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -0.869995 SOG_int: 0.977778 State: 0
+[2024/03/14 10:14:26] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 6.236013 CR: 4.286145
+[2024/03/14 10:14:26] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 6.236013 CR: 1.944444
+[2024/03/14 10:14:26] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 3.431057
+[2024/03/14 10:14:26] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.282355 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:27] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.310173 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:28] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.335046 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:29] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.371050 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:30] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 6 Msg_out: 9
+
+[2024/03/14 10:14:30] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 30.000000 SOG change: 1.000000
+
+[2024/03/14 10:14:30] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.371050 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:32] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -4.959991 SOG_int: 0.991667 State: 0
+[2024/03/14 10:14:32] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 3.411979
+[2024/03/14 10:14:32] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:32] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.127977
+[2024/03/14 10:14:33] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.514405 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:34] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 3.404566
+[2024/03/14 10:14:34] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:34] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.126380
+[2024/03/14 10:14:34] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.558365 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:35] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 4 Msg_out: 4
+
+[2024/03/14 10:14:35] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 0.000000 SOG change: 1.000000
+
+[2024/03/14 10:14:35] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.558365 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:36] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -5.450012 SOG_int: 1.036111 State: 0
+[2024/03/14 10:14:37] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 2.157828
+[2024/03/14 10:14:37] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:37] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 1.944444
+[2024/03/14 10:14:37] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.714226 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:38] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:38] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:38] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 1.944444
+[2024/03/14 10:14:38] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 2.714226 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:39] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 4 Msg_out: 4
+
+[2024/03/14 10:14:39] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 0.000000 SOG change: 1.000000
+
+[2024/03/14 10:14:40] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -5.549988 SOG_int: 1.013889 State: 0
+[2024/03/14 10:14:41] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -7.117170 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:42] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:42] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:42] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 1.944444
+[2024/03/14 10:14:42] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -7.117170 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:43] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 3.357768
+[2024/03/14 10:14:43] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:43] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.116333
+[2024/03/14 10:14:43] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -7.117170 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:44] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 6.152561 CR: 4.695255
+[2024/03/14 10:14:44] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 6.152561 CR: 1.944444
+[2024/03/14 10:14:44] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 3.336159
+[2024/03/14 10:14:44] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -7.117170 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:45] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 5 Msg_out: 5
+
+[2024/03/14 10:14:45] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 30.000000 SOG change: 1.000000
+
+[2024/03/14 10:14:45] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -7.989990 SOG_int: 1.013889 State: 0
+[2024/03/14 10:14:46] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -6.788183 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 6.483454 CR: 6.222712
+[2024/03/14 10:14:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 6.483454 CR: 1.944444
+[2024/03/14 10:14:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 5.223133
+[2024/03/14 10:14:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -6.788183 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:49] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 6.686640 CR: 7.385704
+[2024/03/14 10:14:49] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 6.686640 CR: 1.944444
+[2024/03/14 10:14:49] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 7.370237
+[2024/03/14 10:14:49] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -6.788183 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:50] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 6.686640 CR: 7.385704
+[2024/03/14 10:14:50] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 6.686640 CR: 1.944444
+[2024/03/14 10:14:50] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 7.370237
+[2024/03/14 10:14:50] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -6.788183 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 5 Msg_out: 5
+
+[2024/03/14 10:14:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 20.000000 SOG change: 1.000000
+
+[2024/03/14 10:14:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -6.788183 SOG_int: 1.000000 State: 1
+[2024/03/14 10:14:52] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -10.450012 SOG_int: 1.011111 State: 0
+[2024/03/14 10:14:53] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 5.927423
+[2024/03/14 10:14:53] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:53] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 3.081193
+[2024/03/14 10:14:54] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -6.222405 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:54] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 5.927423
+[2024/03/14 10:14:54] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:14:54] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 3.081193
+[2024/03/14 10:14:55] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -6.106348 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:56] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -5.999647 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:57] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -5.871585 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:58] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 4.241106 SOG_int: 1.000000 State: 0
+[2024/03/14 10:14:59] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -5.616667 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:00] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 8 Msg_out: 12
+
+[2024/03/14 10:15:00] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 25.000000 SOG change: 1.000000
+
+[2024/03/14 10:15:00] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -5.616667 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:01] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -16.200012 SOG_int: 0.986111 State: 0
+[2024/03/14 10:15:02] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -5.242790 SOG_int: 1.000000 State: 0
+[2024/03/14 10:15:03] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 4.555785
+[2024/03/14 10:15:03] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:03] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.030386
+[2024/03/14 10:15:04] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -15.087272 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:04] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 4 Msg_out: 3
+
+[2024/03/14 10:15:04] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 15.000000 SOG change: 1.000000
+
+[2024/03/14 10:15:05] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -15.087272 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:06] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -17.279999 SOG_int: 1.036111 State: 0
+[2024/03/14 10:15:06] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 4.660800
+[2024/03/14 10:15:06] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:06] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.009434
+[2024/03/14 10:15:07] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 5.360981 SOG_int: 1.000000 State: 0
+[2024/03/14 10:15:07] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 3.965051
+[2024/03/14 10:15:07] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:07] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.154694
+[2024/03/14 10:15:08] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 5.496712 SOG_int: 1.000000 State: 0
+[2024/03/14 10:15:08] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 4.192732
+[2024/03/14 10:15:08] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:08] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.105560
+[2024/03/14 10:15:09] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 35.666828 SOG_int: 0.750000 State: 1
+[2024/03/14 10:15:09] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 4.237556
+[2024/03/14 10:15:09] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:09] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.096061
+[2024/03/14 10:15:10] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 35.666828 SOG_int: 0.750000 State: 1
+[2024/03/14 10:15:11] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 6 Msg_out: 6
+
+[2024/03/14 10:15:11] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 15.000000 SOG change: 1.000000
+
+[2024/03/14 10:15:12] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -20.230011 SOG_int: 1.011111 State: 0
+[2024/03/14 10:15:13] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 6.220266 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:13] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 3.905015
+[2024/03/14 10:15:13] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:13] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.167886
+[2024/03/14 10:15:14] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 6.220266 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:14] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 4.002996
+[2024/03/14 10:15:14] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:14] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.146406
+[2024/03/14 10:15:15] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 6.220266 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:15] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 4.002996
+[2024/03/14 10:15:15] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:15] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.146406
+[2024/03/14 10:15:16] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 6.220266 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:17] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 5 Msg_out: 5
+
+[2024/03/14 10:15:17] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 15.000000 SOG change: 1.000000
+
+[2024/03/14 10:15:17] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -17.359985 SOG_int: 0.547222 State: 0
+[2024/03/14 10:15:19] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 16.615242 SOG_int: 0.750000 State: 1
+[2024/03/14 10:15:19] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 4.160159
+[2024/03/14 10:15:19] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:19] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.112500
+[2024/03/14 10:15:20] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 16.615242 SOG_int: 0.750000 State: 1
+[2024/03/14 10:15:20] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 3 Msg_out: 3
+
+[2024/03/14 10:15:20] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 15.000000 SOG change: 1.000000
+
+[2024/03/14 10:15:21] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 0.240000 SOG_int: 0.727778 State: 0
+[2024/03/14 10:15:22] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 66.509125 SOG_int: 0.500000 State: 1
+[2024/03/14 10:15:22] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  111 GW resp: 0.000000 CR: 4.160159
+[2024/03/14 10:15:22] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> To:  113 GW resp: 0.000000 CR: 1.944444
+[2024/03/14 10:15:22] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> Concession level: 2.112500
+[2024/03/14 10:15:23] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 66.509125 SOG_int: 0.500000 State: 1
+[2024/03/14 10:15:23] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 Msg_in: 3 Msg_out: 3
+
+[2024/03/14 10:15:23] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 112 APPLYING COG change: 15.000000 SOG change: 1.000000
+
+[2024/03/14 10:15:24] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 9.580000 SOG_int: 0.936111 State: 0
+[2024/03/14 10:15:25] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 36.387897 SOG_int: 0.500000 State: 0
+[2024/03/14 10:15:26] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 36.365517 SOG_int: 0.500000 State: 0
+[2024/03/14 10:15:28] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 21.348427 SOG_int: 0.500000 State: 1
+[2024/03/14 10:15:29] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 21.348427 SOG_int: 0.500000 State: 1
+[2024/03/14 10:15:30] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 15.179999 SOG_int: 0.555556 State: 0
+[2024/03/14 10:15:31] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -3.768107 SOG_int: 0.750000 State: 1
+[2024/03/14 10:15:32] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -3.768107 SOG_int: 0.750000 State: 1
+[2024/03/14 10:15:34] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 29.789999 SOG_int: 0.558333 State: 0
+[2024/03/14 10:15:35] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -34.202908 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:36] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -34.202908 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:37] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: 38.119999 SOG_int: 0.491667 State: 0
+[2024/03/14 10:15:44] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -53.801220 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:45] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -53.801220 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:46] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -10.609985 SOG_int: 1.111111 State: 0
+[2024/03/14 10:15:47] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -53.153118 SOG_int: 1.000000 State: 0
+[2024/03/14 10:15:48] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -67.977066 SOG_int: 1.000000 State: 0
+[2024/03/14 10:15:50] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -67.803497 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:51] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -67.803497 SOG_int: 1.000000 State: 1
+[2024/03/14 10:15:52] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -22.000000 SOG_int: 0.705556 State: 0
+[2024/03/14 10:15:53] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -67.442116 SOG_int: 1.000000 State: 0
+[2024/03/14 10:15:54] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> MMSI: 111 COG_int: -42.351768 SOG_int: 0.750000 State: 1
+[2024/03/14 10:18:18] - DBG [Control.Path.COLAV.ColavSbmpcNegotiation] >> near endpoint
+[2024/03/14 10:18:18] - MSG [Plan.Engine] >> plan completed
+[2024/03/14 10:18:18] - MSG [Transports.Logging] >> log stopped '20240314/101247_IMAZU-11-V2'
+[2024/03/14 10:18:18] - MSG [Transports.Logging] >> log started '20240314/101818'

@@ -1,0 +1,74 @@
+[2024/03/14 10:25:39] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:25:40] - MSG [Plan.Engine] >> Goto1: executing maneuver
+[2024/03/14 10:25:41] - WRN [Supervisors.Vehicle] >> now in 'MANEUVERING' mode
+[2024/03/14 10:25:41] - MSG [Control.ASV.HeadingAndSpeedForce] >> msg->scope_ref: 4
+[2024/03/14 10:25:41] - MSG [Control.Path.ILOSOtter] >> Start Z units not defined. Switching to Depth units
+[2024/03/14 10:25:41] - MSG [Control.Path.ILOSOtter] >> path (lat/lon): 63.33053 10.07678 to 63.33056 10.07685
+[2024/03/14 10:25:41] - MSG [Control.ASV.HeadingAndSpeedForce] >> msg->scope_ref: 5
+[2024/03/14 10:25:41] - MSG [Control.ASV.HeadingAndSpeedForce] >> msg->scope_ref: 5
+[2024/03/14 10:25:44] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:25:48] - MSG [Plan.Engine] >> Goto2: executing maneuver
+[2024/03/14 10:25:48] - MSG [Control.Path.ILOSOtter] >> path (lat/lon): 63.33056 10.07685 to 63.33056 10.08284
+[2024/03/14 10:25:49] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:25:54] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:25:59] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:04] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:10] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:15] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:20] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:25] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:30] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:35] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:40] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:45] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:50] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:26:55] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:00] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:05] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:10] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:16] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:21] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:26] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:31] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:36] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:41] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:46] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:51] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:27:56] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:01] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:06] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:11] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:16] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:22] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:27] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:32] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:37] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:42] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:47] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:52] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:28:57] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:02] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:07] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:12] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:17] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:23] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:28] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:33] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:38] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:43] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:48] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:53] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:29:58] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:03] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:08] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:13] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:18] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:23] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:29] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:34] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:39] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:44] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:49] - ERR [Transports.TCP.Client/hw] >> restarting in 5 seconds due to error: unable to connect: Connection refused
+[2024/03/14 10:30:49] - MSG [Plan.Engine] >> plan completed
+[2024/03/14 10:30:49] - MSG [Transports.Logging] >> log stopped '20240314/102537_IMAZU-11-V2'
+[2024/03/14 10:30:49] - MSG [Transports.Logging] >> log started '20240314/103049'

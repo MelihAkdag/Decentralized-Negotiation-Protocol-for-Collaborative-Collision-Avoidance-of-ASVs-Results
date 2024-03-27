@@ -1,0 +1,3 @@
+timestamp (seconds since 01/01/1970), system, entity , value, speed_units (enumerated)
+1710411941.875300, ntnu-otter-02, 17, 1.000000, METERS_PS
+1710411948.874586, ntnu-otter-02, 17, 1.000000, METERS_PS

@@ -1,0 +1,186 @@
+
+ASV-1 total path length: 563.9369808758154
+
+ASV-2 total path length: 301.9281278851107
+
+ASV-3 total path length: 620.5137392492885
+
+ASV-4 total path length: 591.0367002348285
+
+ASV-5 total path length: 613.0130727212648
+
+ASV-6 total path length: 605.485946387573
+
+Minimum distance between asv_1-asv_2: 60.6310370964699
+
+Minimum distance between asv_1-asv_3: 55.6154826847169
+
+Minimum distance between asv_1-asv_4: 55.6154826847169
+
+Minimum distance between asv_1-asv_5: 55.6154826847169
+
+Minimum distance between asv_1-asv_6: 55.6154826847169
+
+Minimum distance between asv_2-asv_3: 55.6154826847169
+
+Minimum distance between asv_2-asv_4: 49.724804213963154
+
+Minimum distance between asv_2-asv_5: 28.614991995485646
+
+Minimum distance between asv_2-asv_6: 21.046738029997513
+
+Minimum distance between asv_3-asv_4: 21.046738029997513
+
+Minimum distance between asv_3-asv_5: 21.046738029997513
+
+Minimum distance between asv_3-asv_6: 21.046738029997513
+
+Minimum distance between asv_4-asv_5: 21.046738029997513
+
+Minimum distance between asv_4-asv_6: 21.046738029997513
+
+Minimum distance between asv_5-asv_6: 21.046738029997513
+
+
+Negotiation Communication Statistics:
+
+               time   entity         mmsi      msg_in     msg_out   iter_time
+count  2.730000e+02     273.0  273.000000  273.000000  273.000000  269.000000
+mean   1.710881e+09       7.0  113.593407   26.501832    5.714286    5.064865
+std    1.046949e+02       0.0    1.880500   14.820525    2.775758    1.980871
+min    1.710881e+09       7.0  111.000000    3.000000    3.000000    3.000064
+25%    1.710881e+09       7.0  111.000000   16.000000    3.000000    3.150121
+50%    1.710881e+09       7.0  113.000000   24.000000    5.000000    4.150119
+75%    1.710881e+09       7.0  115.000000   34.000000    7.000000    6.150613
+max    1.710881e+09       7.0  116.000000  112.000000   13.000000   13.399925
+
+ system            caravela  caravela-3  caravela-5  caravela-6
+ msg_in   count   70.000000   81.000000   64.000000   58.000000
+          mean    33.557143   24.864198   25.234375   21.672414
+          std     16.225437   12.975701   12.974630   14.717680
+          min      4.000000    3.000000    9.000000   10.000000
+          25%     24.250000   16.000000   16.000000   15.000000
+          50%     30.000000   24.000000   20.000000   18.000000
+          75%     41.750000   34.000000   34.000000   23.500000
+          max    109.000000   56.000000   61.000000  112.000000
+ msg_out  count   70.000000   81.000000   64.000000   58.000000
+          mean     6.114286    5.518519    5.921875    5.275862
+          std      2.763860    2.706987    3.020064    2.580583
+          min      3.000000    3.000000    3.000000    3.000000
+          25%      4.000000    3.000000    4.000000    3.000000
+          50%      5.000000    5.000000    5.000000    4.000000
+          75%      8.000000    7.000000    7.000000    6.000000
+          max     13.000000   13.000000   13.000000   13.000000
+iter_time count   69.000000   80.000000   63.000000   57.000000
+          mean     5.205065    4.894988    5.321431    4.849999
+          std      1.945904    1.791825    2.248650    1.966344
+          min      3.000152    3.000064    3.048326    3.000139
+          25%      4.099679    3.149955    4.050126    3.100110
+          50%      5.100703    4.150094    4.149935    4.149847
+          75%      6.150028    6.149983    6.674993    5.199794
+          max     13.399925    9.349840   12.299990   12.249776
+
+
+ASV-1 COG offset intentions statistics:
+count    507.000000
+mean      14.694280
+std        8.206526
+min        0.000000
+25%       10.000000
+50%       20.000000
+75%       20.000000
+max       30.000000
+
+ASV-2 COG offset intentions statistics:
+count       0
+unique      0
+top       NaN
+freq      NaN
+
+ASV-3 COG offset intentions statistics:
+count    654.000000
+mean      15.619266
+std       11.825958
+min        0.000000
+25%        5.000000
+50%       15.000000
+75%       30.000000
+max       45.000000
+
+ASV-4 COG offset intentions statistics:
+count       0
+unique      0
+top       NaN
+freq      NaN
+
+ASV-5 COG offset intentions statistics:
+count    817.000000
+mean       7.246022
+std       12.411626
+min      -10.000000
+25%        0.000000
+50%       10.000000
+75%       10.000000
+max       90.000000
+
+ASV-6 COG offset intentions statistics:
+count    799.000000
+mean       7.997497
+std        4.225177
+min        0.000000
+25%       10.000000
+50%       10.000000
+75%       10.000000
+max       20.000000
+
+ASV_1 SOG offset intentions statistics:
+count    507.0
+mean       1.0
+std        0.0
+min        1.0
+25%        1.0
+50%        1.0
+75%        1.0
+max        1.0
+
+ASV_2 SOG offset intentions statistics:
+count       0
+unique      0
+top       NaN
+freq      NaN
+
+ASV_3 SOG offset intentions statistics:
+count    654.0
+mean       1.0
+std        0.0
+min        1.0
+25%        1.0
+50%        1.0
+75%        1.0
+max        1.0
+
+ASV_4 SOG offset intentions statistics:
+count       0
+unique      0
+top       NaN
+freq      NaN
+
+ASV_5 SOG offset intentions statistics:
+count    817.000000
+mean       0.984394
+std        0.060518
+min        0.750000
+25%        1.000000
+50%        1.000000
+75%        1.000000
+max        1.000000
+
+ASV_6 SOG offset intentions statistics:
+count    799.0
+mean       1.0
+std        0.0
+min        1.0
+25%        1.0
+50%        1.0
+75%        1.0
+max        1.0

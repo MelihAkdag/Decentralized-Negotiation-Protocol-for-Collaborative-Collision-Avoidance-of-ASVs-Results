@@ -1,0 +1,12 @@
+
+ASV-1 total path length: 275.1567801021872
+
+ASV-2 total path length: 290.8311039984224
+
+ASV-3 total path length: 274.72370993617534
+
+Minimum distance between asv_1-asv_2: 23.510760324897483
+
+Minimum distance between asv_1-asv_3: 23.510760324897483
+
+Minimum distance between asv_2-asv_3: 23.510760324897483
