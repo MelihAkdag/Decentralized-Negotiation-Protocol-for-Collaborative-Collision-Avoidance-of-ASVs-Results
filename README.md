@@ -27,8 +27,9 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
         <img src="00_scenario_definitions/03_asym_collab_scenarios_01.png" alt="Scenario definition" width="100"/>
         <p><em>Scenario 1 definition.</em></p>
       </td>
-    <tr>
+    </tr>
     <!-- Scenario 1: Results -->
+    <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
         <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
@@ -56,8 +57,9 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
         <img src="00_scenario_definitions/03_asym_collab_scenarios_02.png" alt="Scenario definition" width="100"/>
         <p><em>Scenario 1 definition.</em></p>
       </td>
-    <tr>
+    </tr>
     <!-- Scenario 2: Results -->
+    <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario02/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
         <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
@@ -85,8 +87,9 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
         <img src="00_scenario_definitions/03_asym_collab_scenarios_03.png" alt="Scenario definition" width="100"/>
         <p><em>Scenario 1 definition.</em></p>
       </td>
-    <tr>
+    </tr>
     <!-- Scenario 3: Results -->
+    <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario03/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
         <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
@@ -114,8 +117,9 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
         <img src="00_scenario_definitions/03_asym_collab_scenarios_04.png" alt="Scenario definition" width="100"/>
         <p><em>Scenario 1 definition.</em></p>
       </td>
-    <tr>
+    </tr>
     <!-- Scenario 4: Results -->
+    <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario04/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
         <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
@@ -143,8 +147,9 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
         <img src="00_scenario_definitions/03_asym_collab_scenarios_05.png" alt="Scenario definition" width="100"/>
         <p><em>Scenario 1 definition.</em></p>
       </td>
-    <tr>
+    </tr>
     <!-- Scenario 5: Results -->
+    <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario05/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
         <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
@@ -172,8 +177,9 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
         <img src="00_scenario_definitions/06_asym_noncollab_scenario.png" alt="Scenario definition" width="100"/>
         <p><em>Scenario 1 definition.</em></p>
       </td>
-    <tr>
+    </tr>
     <!-- Scenario 5/6: Results -->
+    <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario05/04_CollabAndNonCollabHeterogen/01/scenario_xy_coord.png" alt="Collab And NonCollab Hetero" width="400"/>
         <p><em>Collaborative and non-collaborative collision avoidance between heterogenous vesses (SB-MPC, RVO, and SB-MPC (without collab)).</em></p>
