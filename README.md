@@ -13,6 +13,20 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
 
 ### Images
 
+<table>
+  <tr>
+    <td>
+      <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Description of Image 1" width="400"/>
+      <p><em>Figure 1: Visualization of the ASV trajectories in the XY plane.</em></p>
+    </td>
+    <td>
+      <img src="01_simulation_results\Scenario01\02_CollabHomogen\01\scenario_xy_coord.png" alt="Description of Image 2" width="400"/>
+      <p><em>Figure 2: Visualization of the ASV trajectories in the XY plane.</em></p>
+    </td>
+  </tr>
+</table>
+
+
 ![Description of Image 1](01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png)
 *Figure 1: Brief description of the result shown in this image.*
 
@@ -29,39 +43,6 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
 
 ---
 
-## Result Folder 2
-
-### Images
-
-![Description of Image 1](results_folder_2/image_1.png)
-*Figure 1: Brief description of the result.*
-
-### Videos
-
-<video controls width="500">
-  <source src="results_folder_2/video_1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-*Figure 2: Description of the video.*
-
----
-
-## Result Folder 3
-
-### Images and Videos
-
-Combine images and videos in one section if preferred. Example:
-
-- **Image**:  
-  ![Description](results_folder_3/image.png)
-- **Video**:  
-  <video controls width="500">
-    <source src="results_folder_3/video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
----
-
 ## Notes
 
 - Ensure the file paths in the links correspond to your repository's structure.
@@ -72,4 +53,4 @@ Combine images and videos in one section if preferred. Example:
 
 ## Contact
 
-For any questions or issues, feel free to reach out to **[Your Name]** at **[Your Email]**.
+For any questions or issues, feel free to reach out to **Melih Akdağ** at **akdag.melih@gmail.com**.
