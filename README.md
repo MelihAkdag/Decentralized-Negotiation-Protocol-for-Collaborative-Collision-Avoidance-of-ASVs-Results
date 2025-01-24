@@ -1,4 +1,4 @@
-# Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results
+# Decentralized Negotiation Protocol for Collaborative Collision Avoidance of ASVs
 Simulation and field test results of the paper called "A Decentralized Negotiation Protocol for Collaborative Collision Avoidance of Autonomous Surface Vehicles".
 
 ---
@@ -48,6 +48,28 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
   Your browser does not support the video tag.
 </video>
 *Figure 3: Description of the video.*
+
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <!-- Image 1 -->
+  <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Benchmark scenario with SB-MPC" width="400">
+  
+  <!-- Video 1 -->
+  <video controls width="400">
+    <source src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_animation_xy_coord.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+  <!-- Image 2 -->
+  <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/distances_plot.png" alt="Distances plot" width="400">
+  
+  <!-- Video 2 -->
+  <video controls width="400">
+    <source src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/another_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
