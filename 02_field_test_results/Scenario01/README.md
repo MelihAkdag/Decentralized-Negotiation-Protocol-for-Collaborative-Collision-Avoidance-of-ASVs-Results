@@ -17,7 +17,9 @@ ASV position plots animation:
   <source src="01_CollabHomogen/01/scenario_animation_xy_coord.mp4" type="video/mp4">  
 </video>
 
-[![Watch the video](01_CollabHomogen/01/scenario_xy_coord.png)](https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/blob/main/02_field_test_results/Scenario01/01_CollabHomogen/01/scenario_animation_xy_coord.mp4)
+
+https://github.com/user-attachments/assets/2ea4f1a1-ff3f-4b38-adce-2bf5d8fb951a
+
 
 
 ASV distances plot:
