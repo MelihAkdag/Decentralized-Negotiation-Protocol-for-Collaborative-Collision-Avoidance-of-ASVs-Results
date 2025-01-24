@@ -17,10 +17,22 @@ ASV distances plot:
 
 ![Description of Image](02_field_test_results/Scenario01/01_CollabHomogen/01/distances_plot.png)
 
+<div style="text-align: center;">
+  <figure>
+    <img src="01_CollabHomogen/01/distances_plot.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
+
 
 ASV Course Over Grounds (COG) plot: 
 
 ![Description of Image](02_field_test_results/Scenario01/01_CollabHomogen/01/cogs.png)
+
+<div style="text-align: center;">
+  <figure>
+    <img src="" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
 
 
 ASV Speed Over Grounds (SOG) plot:
