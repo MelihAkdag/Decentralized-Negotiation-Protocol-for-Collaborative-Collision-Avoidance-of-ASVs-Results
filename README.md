@@ -187,6 +187,7 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
         <p><em>Mixed scenario (collab SB-MPC, collab RVO, non-collab SB-MPC, and non-coop vessels).</em></p>
       </td>
     </tr>
+  </table>
 <div>
 
 ---
