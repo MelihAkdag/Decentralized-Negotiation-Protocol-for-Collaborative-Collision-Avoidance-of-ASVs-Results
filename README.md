@@ -37,16 +37,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 1: Results -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab" target="_blank">
+          <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario01/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario01/02_CollabHomogen" target="_blank">
+          <img src="01_simulation_results/Scenario01/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario01/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario01/03_CollabHeterogen" target="_blank">
+          <img src="01_simulation_results/Scenario01/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 2: Definition -->
@@ -73,16 +79,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 2: Results -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario02/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario02/01_Benchmark_SBMPC_without_collab" target="_blank">
+          <img src="01_simulation_results/Scenario02/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario02/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario02/02_CollabHomogen" target="_blank">
+          <img src="01_simulation_results/Scenario02/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario02/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario02/03_CollabHeterogen" target="_blank">
+          <img src="01_simulation_results/Scenario02/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 3: Definition -->
@@ -109,16 +121,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 3: Results -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario03/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario03/01_Benchmark_SBMPC_without_collab" target="_blank">
+          <img src="01_simulation_results/Scenario03/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario03/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario03/02_CollabHomogen" target="_blank">
+          <img src="01_simulation_results/Scenario03/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario03/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario03/03_CollabHeterogen" target="_blank">
+          <img src="01_simulation_results/Scenario03/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 4: Definition -->
@@ -145,16 +163,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 4: Results -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario04/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario04/01_Benchmark_SBMPC_without_collab" target="_blank">
+          <img src="01_simulation_results/Scenario04/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario04/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario04/02_CollabHomogen" target="_blank">
+          <img src="01_simulation_results/Scenario04/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario04/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario04/03_CollabHeterogen" target="_blank">
+          <img src="01_simulation_results/Scenario04/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 5: Definition -->
@@ -181,16 +205,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 5: Results -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario05/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario05/01_Benchmark_SBMPC_without_collab" target="_blank">
+          <img src="01_simulation_results/Scenario05/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario05/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario05/02_CollabHomogen" target="_blank">
+          <img src="01_simulation_results/Scenario05/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario05/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario05/03_CollabHeterogen" target="_blank">
+          <img src="01_simulation_results/Scenario05/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 5/6: Definition -->
@@ -217,16 +247,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 5/6: Results -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario05/04_CollabAndNonCollabHeterogen/01/scenario_xy_coord.png" alt="Collab And NonCollab Hetero" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario05/04_CollabAndNonCollabHeterogen" target="_blank">
+          <img src="01_simulation_results/Scenario05/04_CollabAndNonCollabHeterogen/01/scenario_xy_coord.png" alt="Collab And NonCollab Hetero" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario05/05_CollabAndNonCoopHeterogen/01/scenario_xy_coord.png" alt="Collab And NonCoop Hetero" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario05/05_CollabAndNonCoopHeterogen" target="_blank">
+          <img src="01_simulation_results/Scenario05/05_CollabAndNonCoopHeterogen/01/scenario_xy_coord.png" alt="Collab And NonCoop Hetero" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="01_simulation_results/Scenario06/01_CollabAndNonCoopHeterogen/01/scenario_xy_coord.png" alt="Mixed scenario" width="400"/>
-        <p><em>Click for more results.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/01_simulation_results/Scenario06/01_CollabAndNonCoopHeterogen" target="_blank">
+          <img src="01_simulation_results/Scenario06/01_CollabAndNonCoopHeterogen/01/scenario_xy_coord.png" alt="Mixed scenario" width="400"/>
+          <p><em>Click for more results.</em></p>
+        </a>
       </td>
     </tr>
   </table>
