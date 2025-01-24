@@ -4,7 +4,12 @@
 
 ASV positions plot:
 
-![Description of Image](01_CollabHomogen/01/scenario_xy_coord.png)
+<div style="text-align: center;">
+  <figure>
+    <img src="01_CollabHomogen/01/scenario_xy_coord.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
+
 
 ASV position plots animation:
 
@@ -15,8 +20,6 @@ ASV position plots animation:
 
 ASV distances plot:
 
-![Description of Image](02_field_test_results/Scenario01/01_CollabHomogen/01/distances_plot.png)
-
 <div style="text-align: center;">
   <figure>
     <img src="01_CollabHomogen/01/distances_plot.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
@@ -26,24 +29,29 @@ ASV distances plot:
 
 ASV Course Over Grounds (COG) plot: 
 
-![Description of Image](02_field_test_results/Scenario01/01_CollabHomogen/01/cogs.png)
-
 <div style="text-align: center;">
   <figure>
-    <img src="" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+    <img src="01_CollabHomogen/01/cogs.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
   </figure>
 </div>
 
 
 ASV Speed Over Grounds (SOG) plot:
 
-![Description of Image](02_field_test_results/Scenario01/01_CollabHomogen/01/sogs.png)
+<div style="text-align: center;">
+  <figure>
+    <img src="01_CollabHomogen/01/sogs.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
 
 
 ASV concession levels plot:
 
-![Description of Image](02_field_test_results/Scenario01/01_CollabHomogen/01/concession_levels.png)
-
+<div style="text-align: center;">
+  <figure>
+    <img src="01_CollabHomogen/01/concession_levels.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
 
 ---
 
@@ -52,32 +60,51 @@ ASV concession levels plot:
 
 ASV positions plot:
 
-![Description of Image](02_field_test_results/Scenario01/02_CollabHeterogen/01/scenario_xy_coord.png)
+<div style="text-align: center;">
+  <figure>
+    <img src="02_CollabHeterogen/01/scenario_xy_coord.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
 
 
 ASV position plots animation:
 
 <video controls width="500">
-  <source src="02_field_test_results/Scenario01/02_CollabHeterogen/01/scenario_animation_xy_coord.mp4" type="video/mp4">  
+  <source src="02_CollabHeterogen/01/scenario_animation_xy_coord.mp4" type="video/mp4">  
 </video>
 
 
 ASV distances plot:
 
-![Description of Image](02_field_test_results/Scenario01/02_CollabHeterogen/01/distances_plot.png)
+<div style="text-align: center;">
+  <figure>
+    <img src="02_CollabHeterogen/01/distances_plot.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
 
 
 ASV Course Over Grounds (COG) plot: 
 
-![Description of Image](02_field_test_results/Scenario01/02_CollabHeterogen/01/cogs.png)
+<div style="text-align: center;">
+  <figure>
+    <img src="02_CollabHeterogen/01/cogs.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
 
 
 ASV Speed Over Grounds (SOG) plot:
 
-![Description of Image](02_field_test_results/Scenario01/02_CollabHeterogen/01/sogs.png)
+<div style="text-align: center;">
+  <figure>
+    <img src="02_CollabHeterogen/01/sogs.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
 
 
 ASV concession levels plot:
 
-![Description of Image](02_field_test_results/Scenario01/02_CollabHeterogen/01/concession_levels.png)
-
+<div style="text-align: center;">
+  <figure>
+    <img src="02_CollabHeterogen/01/concession_levels.png" alt="Description of the figure" style="width: 50%; border: 1px solid #ccc; padding: 10px;">
+  </figure>
+</div>
