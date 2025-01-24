@@ -17,15 +17,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
   <!-- Scenario 1: Definition -->
   <tr>
     <td>
-      <img src="00_scenario_definitions\01_noncollab_scenarios_01.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\01_noncollab_scenarios_01.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\02_sym_collab_scenarios_01.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\02_sym_collab_scenarios_01.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\03_asym_collab_scenarios_01.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\03_asym_collab_scenarios_01.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
   <tr>
@@ -46,15 +46,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
   <!-- Scenario 2: Definition -->
   <tr>
     <td>
-      <img src="00_scenario_definitions\01_noncollab_scenarios_02.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\01_noncollab_scenarios_02.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\02_sym_collab_scenarios_02.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\02_sym_collab_scenarios_02.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\03_asym_collab_scenarios_02.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\03_asym_collab_scenarios_02.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
   <tr>
@@ -75,15 +75,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
   <!-- Scenario 3: Definition -->
   <tr>
     <td>
-      <img src="00_scenario_definitions\01_noncollab_scenarios_03.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\01_noncollab_scenarios_03.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\02_sym_collab_scenarios_03.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\02_sym_collab_scenarios_03.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\03_asym_collab_scenarios_03.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\03_asym_collab_scenarios_03.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
   <tr>
@@ -104,15 +104,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
   <!-- Scenario 4: Definition -->
   <tr>
     <td>
-      <img src="00_scenario_definitions\01_noncollab_scenarios_04.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\01_noncollab_scenarios_04.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\02_sym_collab_scenarios_04.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\02_sym_collab_scenarios_04.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\03_asym_collab_scenarios_04.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\03_asym_collab_scenarios_04.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
   <tr>
@@ -133,15 +133,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
   <!-- Scenario 5: Definition -->
   <tr>
     <td>
-      <img src="00_scenario_definitions\01_noncollab_scenarios_05.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\01_noncollab_scenarios_05.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\02_sym_collab_scenarios_05.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\02_sym_collab_scenarios_05.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
     <td>
-      <img src="00_scenario_definitions\03_asym_collab_scenarios_05.png" alt="Scenario definition" width="400"/>
+      <img src="00_scenario_definitions\03_asym_collab_scenarios_05.png" alt="Scenario definition" width="200"/>
       <p><em>Scenario 1 definition.</em></p>
     </td>
   <tr>
@@ -157,6 +157,35 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <td>
       <img src="01_simulation_results\Scenario05\03_CollabHeterogen\01\scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
       <p><em>Collaborative collision avoidance between heterogenous vesses (SB-MPC and RVO).</em></p>
+    </td>
+  </tr>
+  <!-- Scenario 5/6: Definition -->
+  <tr>
+    <td>
+      <img src="00_scenario_definitions\04_noncollab_asym_scenario.png" alt="Scenario definition" width="200"/>
+      <p><em>Scenario 1 definition.</em></p>
+    </td>
+    <td>
+      <img src="00_scenario_definitions\05_noncoop_asym_scenario.png" alt="Scenario definition" width="200"/>
+      <p><em>Scenario 1 definition.</em></p>
+    </td>
+    <td>
+      <img src="00_scenario_definitions\06_asym_noncollab_scenario.png" alt="Scenario definition" width="200"/>
+      <p><em>Scenario 1 definition.</em></p>
+    </td>
+  <tr>
+  <!-- Scenario 5/6: Results -->
+    <td>
+      <img src="01_simulation_results\Scenario05\04_CollabAndNonCollabHeterogen\01\scenario_xy_coord.png" alt="Collab And NonCollab Hetero" width="400"/>
+      <p><em>Collaborative and non-collaborative collision avoidance between heterogenous vesses (SB-MPC, RVO, and SB-MPC (without collab)).</em></p>
+    </td>
+    <td>
+      <img src="01_simulation_results\Scenario05\05_CollabAndNonCoopHeterogen\01\scenario_xy_coord.png" alt="Collab And NonCoop Hetero" width="400"/>
+      <p><em>Collaborative collision avoidance between heterogenous vesses with non-cooperative vessel in the environment (SB-MPC, RVO, and non-coop. vessel).</em></p>
+    </td>
+    <td>
+      <img src="01_simulation_results\Scenario06\01_CollabAndNonCoopHeterogen\01\scenario_xy_coord.png" alt="Mixed scenario" width="400"/>
+      <p><em>Mixed scenario (collab SB-MPC, collab RVO, non-collab SB-MPC, and non-coop vessels).</em></p>
     </td>
   </tr>
 
