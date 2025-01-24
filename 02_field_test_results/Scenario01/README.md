@@ -5,7 +5,7 @@
 ASV positions plot:
 
 ![Description of Image](02_field_test_results/Scenario01/01_CollabHomogen/01/scenario_xy_coord.png)
-
+*Figure description.*
 
 ASV position plots animation:
 
