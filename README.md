@@ -20,12 +20,16 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
       <p><em>Figure 1: Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
     </td>
     <td>
+      <img src="01_simulation_results\Scenario01\01_Benchmark_SBMPC_without_collab\01\scenario_animation_xy_coord.mp4" alt="Description of Image 1" width="400"/>
+      <p><em>Figure 2: ASV behaviors video.</em></p>
+    </td>
+    <td>
       <img src="01_simulation_results\Scenario01\01_Benchmark_SBMPC_without_collab\01\distances_plot.png" alt="Description of Image 2" width="400"/>
-      <p><em>Figure 2: Distances plot.</em></p>
+      <p><em>Figure 3: Distances plot.</em></p>
     </td>
     <td>
       <img src="01_simulation_results\Scenario01\01_Benchmark_SBMPC_without_collab\01\sogs.png" alt="Description of Image 2" width="400"/>
-      <p><em>Figure 2: Speed over ground (SOG) plot.</em></p>
+      <p><em>Figure 4: Speed over ground (SOG) plot.</em></p>
     </td>
   </tr>
 </table>
