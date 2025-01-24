@@ -17,21 +17,25 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
   <tr>
     <td>
       <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Description of Image 1" width="400"/>
-      <p><em>Figure 1: Visualization of the ASV trajectories in the XY plane.</em></p>
+      <p><em>Figure 1: Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
     </td>
     <td>
-      <img src="01_simulation_results\Scenario01\02_CollabHomogen\01\scenario_xy_coord.png" alt="Description of Image 2" width="400"/>
-      <p><em>Figure 2: Visualization of the ASV trajectories in the XY plane.</em></p>
+      <img src="01_simulation_results\Scenario01\01_Benchmark_SBMPC_without_collab\01\distances_plot.png" alt="Description of Image 2" width="400"/>
+      <p><em>Figure 2: Distances plot.</em></p>
+    </td>
+    <td>
+      <img src="01_simulation_results\Scenario01\01_Benchmark_SBMPC_without_collab\01\sogs.png" alt="Description of Image 2" width="400"/>
+      <p><em>Figure 2: Speed over ground (SOG) plot.</em></p>
     </td>
   </tr>
 </table>
 
+---
 
 ![Description of Image 1](01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png)
 *Figure 1: Brief description of the result shown in this image.*
 
-![Description of Image 2](results_folder_1/image_2.png)
-*Figure 2: Another description of the result.*
+---
 
 ### Videos
 
