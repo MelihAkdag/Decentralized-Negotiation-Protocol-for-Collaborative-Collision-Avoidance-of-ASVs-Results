@@ -16,16 +16,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 1: Definition -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/01_noncollab_scenarios_01.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/01_noncollab_scenarios_01.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/02_sym_collab_scenarios_01.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/02_sym_collab_scenarios_01.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/03_asym_collab_scenarios_01.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/03_asym_collab_scenarios_01.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 1: Results -->
@@ -46,16 +52,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 2: Definition -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/01_noncollab_scenarios_02.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/01_noncollab_scenarios_02.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/02_sym_collab_scenarios_02.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/02_sym_collab_scenarios_02.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/03_asym_collab_scenarios_02.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/03_asym_collab_scenarios_02.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 2: Results -->
@@ -76,16 +88,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 3: Definition -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/01_noncollab_scenarios_03.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/01_noncollab_scenarios_03.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/02_sym_collab_scenarios_03.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/02_sym_collab_scenarios_03.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/03_asym_collab_scenarios_03.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/03_asym_collab_scenarios_03.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 3: Results -->
@@ -106,16 +124,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 4: Definition -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/01_noncollab_scenarios_04.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/01_noncollab_scenarios_04.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/02_sym_collab_scenarios_04.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/02_sym_collab_scenarios_04.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/03_asym_collab_scenarios_04.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/03_asym_collab_scenarios_04.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 4: Results -->
@@ -136,16 +160,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 5: Definition -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/01_noncollab_scenarios_05.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/01_noncollab_scenarios_05.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/02_sym_collab_scenarios_05.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/02_sym_collab_scenarios_05.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/03_asym_collab_scenarios_05.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/03_asym_collab_scenarios_05.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 5: Results -->
@@ -166,16 +196,22 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <!-- Scenario 5/6: Definition -->
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/04_noncollab_asym_scenario.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/04_noncollab_asym_scenario.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/05_noncoop_asym_scenario.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/05_noncoop_asym_scenario.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <img src="00_scenario_definitions/06_asym_noncollab_scenario.png" alt="Scenario definition" width="100"/>
-        <p><em>Scenario 1 definition.</em></p>
+        <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
+          <img src="00_scenario_definitions/06_asym_noncollab_scenario.png" alt="Scenario definition" width="100"/>
+          <p><em>Scenario 1 definition.</em></p>
+        </a>
       </td>
     </tr>
     <!-- Scenario 5/6: Results -->
