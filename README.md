@@ -18,19 +18,19 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/01_noncollab_scenarios_01.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 1: SB-MPC without collaboration.</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/02_sym_collab_scenarios_01.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 1: Collaborative homogenous vessels (collaborative SB-MPC).</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/03_asym_collab_scenarios_01.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 1: Collaborative heterogenous vessels (collaborative SB-MPC and RVO).</em></p>
         </a>
       </td>
     </tr>
@@ -38,15 +38,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario01/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Collaborative collision avoidance between homogenous vessels (SB-MPC).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario01/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Collaborative collision avoidance between heterogenous vesses (SB-MPC and RVO).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
     </tr>
     <!-- Scenario 2: Definition -->
@@ -54,19 +54,19 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/01_noncollab_scenarios_02.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 2: SB-MPC without collaboration.</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/02_sym_collab_scenarios_02.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 2: Collaborative homogenous vessels (collaborative SB-MPC).</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/03_asym_collab_scenarios_02.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 2: Collaborative heterogenous vessels (collaborative SB-MPC and RVO).</em></p>
         </a>
       </td>
     </tr>
@@ -74,15 +74,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario02/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario02/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Collaborative collision avoidance between homogenous vessels (SB-MPC).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario02/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Collaborative collision avoidance between heterogenous vesses (SB-MPC and RVO).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
     </tr>
     <!-- Scenario 3: Definition -->
@@ -90,19 +90,19 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/01_noncollab_scenarios_03.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 3: SB-MPC without collaboration.</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/02_sym_collab_scenarios_03.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 3: Collaborative homogenous vessels (collaborative SB-MPC).</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/03_asym_collab_scenarios_03.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 3: Collaborative heterogenous vessels (collaborative SB-MPC and RVO).</em></p>
         </a>
       </td>
     </tr>
@@ -110,15 +110,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario03/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario03/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Collaborative collision avoidance between homogenous vessels (SB-MPC).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario03/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Collaborative collision avoidance between heterogenous vesses (SB-MPC and RVO).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
     </tr>
     <!-- Scenario 4: Definition -->
@@ -126,19 +126,19 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/01_noncollab_scenarios_04.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 4: SB-MPC without collaboration.</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/02_sym_collab_scenarios_04.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 4: Collaborative homogenous vessels (collaborative SB-MPC).</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/03_asym_collab_scenarios_04.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 4: Collaborative heterogenous vessels (collaborative SB-MPC and RVO).</em></p>
         </a>
       </td>
     </tr>
@@ -146,15 +146,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario04/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario04/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Collaborative collision avoidance between homogenous vessels (SB-MPC).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario04/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Collaborative collision avoidance between heterogenous vesses (SB-MPC and RVO).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
     </tr>
     <!-- Scenario 5: Definition -->
@@ -162,19 +162,19 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/01_noncollab_scenarios_05.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 5: SB-MPC without collaboration.</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/02_sym_collab_scenarios_05.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 5: Collaborative homogenous vessels (collaborative SB-MPC).</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/03_asym_collab_scenarios_05.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 5: Collaborative heterogenous vessels (collaborative SB-MPC and RVO).</em></p>
         </a>
       </td>
     </tr>
@@ -182,15 +182,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario05/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Bechmark SB-MPC" width="400"/>
-        <p><em>Benchmark scenario with SB-MPC without any collaboration between vessels.</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario05/02_CollabHomogen/01/scenario_xy_coord.png" alt="Collab Colav Homogenous" width="400"/>
-        <p><em>Collaborative collision avoidance between homogenous vessels (SB-MPC).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario05/03_CollabHeterogen/01/scenario_xy_coord.png" alt="Collab Colab Hetero" width="400"/>
-        <p><em>Collaborative collision avoidance between heterogenous vesses (SB-MPC and RVO).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
     </tr>
     <!-- Scenario 5/6: Definition -->
@@ -198,19 +198,19 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/04_noncollab_asym_scenario.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 5: Collaborative and non-collaborative collision avoidance between heterogenous vesses (SB-MPC, RVO, and SB-MPC (without collab)).</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/05_noncoop_asym_scenario.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 5: Collaborative collision avoidance between heterogenous vesses with non-cooperative vessel in the environment (SB-MPC, RVO, and non-coop. vessel).</em></p>
         </a>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a href="https://github.com/MelihAkdag/Decentralized-Negotiation-Protocol-for-Collaborative-Collision-Avoidance-of-ASVs-Results/tree/main/00_scenario_definitions" target="_blank">
           <img src="00_scenario_definitions/06_asym_noncollab_scenario.png" alt="Scenario definition" width="100"/>
-          <p><em>Scenario 1 definition.</em></p>
+          <p><em>Scenario 6: Mixed scenario (collab SB-MPC, collab RVO, non-collab SB-MPC, and non-coop vessels).</em></p>
         </a>
       </td>
     </tr>
@@ -218,15 +218,15 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
     <tr>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario05/04_CollabAndNonCollabHeterogen/01/scenario_xy_coord.png" alt="Collab And NonCollab Hetero" width="400"/>
-        <p><em>Collaborative and non-collaborative collision avoidance between heterogenous vesses (SB-MPC, RVO, and SB-MPC (without collab)).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario05/05_CollabAndNonCoopHeterogen/01/scenario_xy_coord.png" alt="Collab And NonCoop Hetero" width="400"/>
-        <p><em>Collaborative collision avoidance between heterogenous vesses with non-cooperative vessel in the environment (SB-MPC, RVO, and non-coop. vessel).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <img src="01_simulation_results/Scenario06/01_CollabAndNonCoopHeterogen/01/scenario_xy_coord.png" alt="Mixed scenario" width="400"/>
-        <p><em>Mixed scenario (collab SB-MPC, collab RVO, non-collab SB-MPC, and non-coop vessels).</em></p>
+        <p><em>Click for more results.</em></p>
       </td>
     </tr>
   </table>
