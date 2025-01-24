@@ -4,13 +4,12 @@
 
 ASV positions plot:
 
-![Description of Image](02_field_test_results/Scenario01/01_CollabHomogen/01/scenario_xy_coord.png)
-*Figure description.*
+![Description of Image](01_CollabHomogen/01/scenario_xy_coord.png)
 
 ASV position plots animation:
 
 <video controls width="500">
-  <source src="02_field_test_results/Scenario01/01_CollabHomogen/01/scenario_animation_xy_coord.mp4" type="video/mp4">  
+  <source src="01_CollabHomogen/01/scenario_animation_xy_coord.mp4" type="video/mp4">  
 </video>
 
 
