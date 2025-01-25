@@ -3,9 +3,13 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
 
 ---
 
-## Table of Contents
-1. [Simulation results](#01_simulation_results)
-2. [Field test results](#02_field_test_results)
+A selection of scenarios illustrated in tables below, has been chosen to evaluate the proposed negotiation protocol. These scenarios encompass various cases such as head-on, crossing, and overtaking responsibilities for vehicles. 
+
+Each vehicle is assigned distinct profiles to depict homogeneous and heterogeneous characteristics. In homogeneous scenarios, vehicles share identical collision avoidance algorithm (SB-MPC) alongside the same collision avoidance initialization and safe distance parameters. Conversely, heterogeneous vehicles utilize SB-MPC and RVO collision avoidance algorithms and are configured with different initialization and safe distance parameters. Vehicles utilizing the SB-MPC algorithm are represented in blue, while those employing the RVO algorithm are shown in orange. 
+
+First columns of the tables illustrate the benchmark scenarios involving homogeneous vehicles employing the SB-MPC algorithm without collaboration. Second columns present scenarios involving homogeneous vehicles equipped with collaborative SB-MPC algorithms. Collaborative heterogeneous vehicles with different collision avoidance algorithms and parameters are defined in third columns where the larger vehicles represent bigger initialization and safe distance parameters. The initialization and safe distance parameters are set as 150 m and 20 m in default and 200 m and 30 m for bigger vehicles in heterogeneous vehicle scenarios. Some scenarios demonstrate a more complex case involving both collaborative (blue and orange), non-collaborative (white with blue borderline), and non-cooperative (gray) heterogeneous vehicles. 
+
+Each scenario is simulated five times, and some field tests have been conducted multiple times as well. The figures in the tables below represent only a single trial result of coordinate plot. To review all trials with additional visualizations, please refer to the corresponding section. 
 
 ---
 
@@ -460,41 +464,6 @@ Simulation and field test results of the paper called "A Decentralized Negotiati
 <div>
 
 
-
----
-
-### Videos
-
-<video controls width="500">
-  <source src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_animation_xy_coord.mp4" type="video/mp4">  
-  Your browser does not support the video tag.
-</video>
-*Figure 3: Description of the video.*
-
----
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <!-- Image 1 -->
-  <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_xy_coord.png" alt="Benchmark scenario with SB-MPC" width="400">
-  
-  <!-- Video 1 -->
-  <video controls width="400">
-    <source src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/scenario_animation_xy_coord.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  
-  <!-- Image 2 -->
-  <img src="01_simulation_results/Scenario01/01_Benchmark_SBMPC_without_collab/01/distances_plot.png" alt="Distances plot" width="400">
-  
-</div>
-
----
-
-## Notes
-
-- Ensure the file paths in the links correspond to your repository's structure.
-- Replace placeholders like `results_folder_1/image_1.png` with the actual paths to your files.
-- Markdown does not support embedding MP4 files natively on GitHub. These videos will display locally or in markdown preview tools but not in GitHub's web interface. Consider linking to a hosted version (e.g., on YouTube, Vimeo) if you need them viewable online.
 
 ---
 
